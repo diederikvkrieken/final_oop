@@ -1,6 +1,7 @@
 
 public class Animal {
-	public void main(String[] args){
+	public static void main(String[] args){
+		//ik voeg nu een comment toe
 		System.out.println("hoi");
 	}
 	private int lifeEnergyPool;
