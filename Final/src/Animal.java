@@ -9,8 +9,8 @@ public class Animal {
 	private int x, y;
 	
 	public void look(){
-		for(x = (getX()-1);x<(getX()+1);x++){
-			for(y = (getY()-1);y<(getY()+1);y++){
+		for(int i = x-1;i<x+1;i++){
+			for(int j = y-1;j<y+1;j++){
 				
 			}
 		}
