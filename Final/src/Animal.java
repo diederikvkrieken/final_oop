@@ -1,5 +1,8 @@
 
 public class Animal {
+	public void main(String[] args){
+		System.out.println("hoi");
+	}
 	private int lifeEnergyPool;
 	private int turnCost;
 	private int x, y;
