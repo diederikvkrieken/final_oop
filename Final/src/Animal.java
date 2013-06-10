@@ -13,7 +13,7 @@ public class Animal {
 	}
 	
 	public void move(){
-		
+		//hoi
 	}
 
 	public int getLifeEnergyPool() {
